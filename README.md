@@ -8,7 +8,12 @@ Test deno and oak out
 3. Run `deno run --allow-net app.ts`
 
 ### Testing it out
-Go to the following pages in `https://localhost:8000`
+Go to `https://josef-oak-test.deno.dev/` to see this running with deno deploy. 
+
+Otherwise for local dev go to the following pages in `https://localhost:8000`
  - `/` -> "Hello World"
  - `/book` -> See all the books
  - `/book/:id` -> See an individual book
+
+
+
